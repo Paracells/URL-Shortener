@@ -1,6 +1,6 @@
-##URL Shortener
+## URL Shortener
 
-###How to use
+### How to use
 
 1. You need db, I use **cloud MongoDB**, but <br/>
     1. you can install on your PC
